@@ -1,0 +1,7 @@
+{
+  "name": "Lumina Impact - AI Social Accelerator",
+  "description": "An elite AI-driven ecosystem empowering NGOs with automated matching, strategic grant analysis, and technical intelligence.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
